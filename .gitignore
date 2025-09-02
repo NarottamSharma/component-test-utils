@@ -51,6 +51,8 @@ temp/
 # Optional eslint cache
 .eslintcache
 
-# Package lock files (choose one)
-package-lock.json
+# Package files (keep package-lock.json for reproducible builds)
 yarn.lock
+
+# Setup files
+setup-github.txt
